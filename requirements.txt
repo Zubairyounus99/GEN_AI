@@ -1,0 +1,7 @@
+streamlit          # Ensure compatibility with your Streamlit version
+PyPDF2             # For PDF reading and text extraction
+faiss-cpu          # FAISS library for vector similarity search
+numpy              # Required for numerical computations
+scikit-learn       # For TF-IDF vectorizer
+gdown              # For downloading files/folders from Google Drive
+groq               # Replace with the actual version used for the Groq client
